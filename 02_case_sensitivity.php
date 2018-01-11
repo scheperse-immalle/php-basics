@@ -14,7 +14,7 @@ echo '$waarde';
 echo "<br>";
 echo "$waarde";
 echo "<br>";
-
+echo 'De waarde van $waarde is 3';
 if($val == null) {
     echo "$val is not defined.";
 }
@@ -24,9 +24,6 @@ if($val == null) {
 // en de juiste soort quotes: single (') of double (").
 // Je kan dit zelfs oplossen ZONDER de concatenatie-opeartor
 // te gebruiken als je $ kan escapen.
-
-
-
 
 
 ?>

@@ -1,6 +1,8 @@
 <?php
 
 define("USERNAME", "joske");
+define("PASSWORD", "joske");
+define("SERVERNAME", "joske");
 
 echo USERNAME;
 
